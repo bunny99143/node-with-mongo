@@ -7,3 +7,6 @@
 
 
 
+# POSTMEN Collection For API's
+
+URL : https://www.getpostman.com/collections/f12f148859d128fcd96d
